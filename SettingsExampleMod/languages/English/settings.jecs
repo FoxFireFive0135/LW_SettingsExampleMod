@@ -1,0 +1,41 @@
+﻿MHG.SettingsMenu.Pages.Gameplay.Headings.FoxFireFive.SettingsExampleMod: "Example Settings"
+
+FoxFireFive.SettingsExampleMod.ToggleExample: "Toggle Example"
+FoxFireFive.SettingsExampleMod.ToggleExample.Description: """
+    An example of [Setting_Toggle()]
+    """
+
+FoxFireFive.SettingsExampleMod.SliderFloatExample: "SliderFloat Example"
+FoxFireFive.SettingsExampleMod.SliderFloatExample.Description: """
+    An example of [Setting_SliderFloat()]
+    """
+
+FoxFireFive.SettingsExampleMod.SliderIntExample: "SliderInt Example"
+FoxFireFive.SettingsExampleMod.SliderIntExample.Description: """
+    An example of [Setting_SliderInt()]
+    """
+
+FoxFireFive.SettingsExampleMod.TextBoxExample: "TextBox Example"
+FoxFireFive.SettingsExampleMod.TextBoxExample.Description: """
+    An example of [Setting_TextBox()]
+    """
+
+FoxFireFive.SettingsExampleMod.ColorPickerExample: "ColorPicker Example"
+FoxFireFive.SettingsExampleMod.ColorPickerExample.Description: """
+    An example of [Setting_ColorPicker()]
+    """
+
+FoxFireFive.SettingsExampleMod.TexturePickerExample: "TexturePicker Example"
+FoxFireFive.SettingsExampleMod.TexturePickerExample.Description: """
+    An example of [Setting_TexturePicker()]
+    """
+
+FoxFireFive.SettingsExampleMod.DropdownEnumExample: "DropdownEnum Example"
+FoxFireFive.SettingsExampleMod.DropdownEnumExample.Description: """
+    An example of [Setting_DropdownEnum()]
+    """
+
+FoxFireFive.SettingsExampleMod.DropdownDynamicExample: "DropdownDynamic Example"
+FoxFireFive.SettingsExampleMod.DropdownDynamicExample.Description: """
+    An example of [Setting_DropdownDynamic()]
+    """

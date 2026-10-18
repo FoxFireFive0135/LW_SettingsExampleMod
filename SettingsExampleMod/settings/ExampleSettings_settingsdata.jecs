@@ -1,0 +1,51 @@
+﻿FoxFireFive.SettingsExampleMod.ToggleExample:
+    Page: Gameplay
+    Heading: FoxFireFive.SettingsExampleMod
+    PreviewText: On_Off
+    PerformanceImpact: Insane
+    
+FoxFireFive.SettingsExampleMod.SliderFloatExample:
+    Page: Gameplay
+    Heading: FoxFireFive.SettingsExampleMod
+    Min: 0.69
+    Max: 4.20
+    SliderInterval: 0.069
+    DecimalPlacesToDisplay: 4
+    PreviewText: Lower_Higher
+    PerformanceImpact: Low
+    Controls:
+        ToggleControls:
+            - FoxFireFive.SettingsExampleMod.ToggleExample
+    
+FoxFireFive.SettingsExampleMod.SliderIntExample:
+    Page: Gameplay
+    Heading: FoxFireFive.SettingsExampleMod
+    Min: 10
+    Max: 100
+    SliderInterval: 5
+    PreviewText: Lower_Higher
+    PerformanceImpact: Medium
+    
+FoxFireFive.SettingsExampleMod.TextBoxExample:
+    Page: Gameplay
+    Heading: FoxFireFive.SettingsExampleMod
+    CharacterLimit: 10
+    PerformanceImpact: Negligible
+    
+FoxFireFive.SettingsExampleMod.ColorPickerExample:
+    Page: Gameplay
+    Heading: FoxFireFive.SettingsExampleMod
+    PerformanceImpact: High
+    
+FoxFireFive.SettingsExampleMod.TexturePickerExample:
+    Page: Gameplay
+    Heading: FoxFireFive.SettingsExampleMod
+    PerformanceImpact: Extreme
+    
+FoxFireFive.SettingsExampleMod.DropdownEnumExample:
+    Page: Gameplay
+    Heading: FoxFireFive.SettingsExampleMod
+
+FoxFireFive.SettingsExampleMod.DropdownDynamicExample:
+    Page: Gameplay
+    Heading: FoxFireFive.SettingsExampleMod
