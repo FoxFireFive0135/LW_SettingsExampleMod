@@ -31,6 +31,12 @@ FoxFireFive.SettingsExampleMod.TextBoxExample:
     Heading: FoxFireFive.SettingsExampleMod
     CharacterLimit: 10
     PerformanceImpact: Negligible
+    Controls:
+        DropdownControls:
+            -
+                DropdownTextID: FoxFireFive.SettingsExampleMod.DropdownDynamicExample
+                Option: "peanut"
+                
     
 FoxFireFive.SettingsExampleMod.ColorPickerExample:
     Page: Gameplay
